@@ -572,7 +572,7 @@ expressions.
     The default value is 'false'.
 
     6. The index column is a line number with consecutive integers starting
-    at 1. It is not preserved on import and re-export. The purpose it to
+    at 1. It is not preserved on import and re-export. The purpose is to
     preserve the order of the lines (which is significant for specifying the
     sequence) for implementations like (deposition) databases that do not use
     ordered containers for the data.

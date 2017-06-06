@@ -1,7 +1,7 @@
 #==========================================================================
 #  Nmr Exchange Format
 #
-#  Version 1.0  November 2016 Rasmus Fogh,
+#  Version 1.1  November 2016 Rasmus Fogh,
 #
 #  Commented example file with representative examples and a value for all tags
 #
@@ -31,6 +31,8 @@ data_nef_my_nmr_project_1
       _nef_nmr_meta_data.program_version  3.0.b1
       _nef_nmr_meta_data.creation_date    2016-11-22T18:25:26.324290
       _nef_nmr_meta_data.uuid             CcpNmr-2016-07-20T18:25:26.324290-1226605315
+      _nef_nmr_meta_data.coordinate_file_name  .
+
 
       # Optional:
       _nef_nmr_meta_data.coordinate_file_name  depositiondir/somefile.ext
